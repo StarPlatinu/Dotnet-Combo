@@ -1,0 +1,15 @@
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\FuncAction.csproj.AssemblyReference.cache
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\FuncAction.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\FuncAction.AssemblyInfoInputs.cache
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\FuncAction.AssemblyInfo.cs
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\FuncAction.csproj.CoreCompileInputs.cache
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\bin\Debug\net6.0\FuncAction.exe
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\bin\Debug\net6.0\FuncAction.deps.json
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\bin\Debug\net6.0\FuncAction.runtimeconfig.json
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\bin\Debug\net6.0\FuncAction.dll
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\bin\Debug\net6.0\FuncAction.pdb
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\FuncAction.dll
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\refint\FuncAction.dll
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\FuncAction.pdb
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\FuncAction.genruntimeconfig.cache
+D:\FULearning\PRN_221\Application\StudyMaterial\C# Nang Cao\Delegate\delegate\FuncAction\obj\Debug\net6.0\ref\FuncAction.dll
