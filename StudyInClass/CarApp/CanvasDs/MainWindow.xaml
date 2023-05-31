@@ -19,7 +19,10 @@
             <Rectangle Width="150" Height="50" Fill="#FF91FD50" Canvas.Left="586" Canvas.Top="185" HorizontalAlignment="Center" VerticalAlignment="Top"/>
             <Rectangle Width="100" Height="50" Fill="#FF7AF64E" Canvas.Left="613" Canvas.Top="264" RadiusX="10" RadiusY="10" HorizontalAlignment="Left" VerticalAlignment="Center"/>
             <Ellipse Width="100" Height="100" Canvas.Left="350" Fill="#FF8633C0" />
-            <Polygon Points="100,25 125,0 200,25 125,50"                 Fill="LightSteelBlue" Canvas.Left="461" Canvas.Top="122" />            <Polygon Points="100,25,45,44,25 75,50,23,33,65"                 Fill="White" Canvas.Left="636" Canvas.Top="87"/>
+            <Polygon Points="100,25 125,0 200,25 125,50"
+                 Fill="LightSteelBlue" Canvas.Left="461" Canvas.Top="122" />
+            <Polygon Points="100,25,45,44,25 75,50,23,33,65"
+                 Fill="White" Canvas.Left="636" Canvas.Top="87"/>
         </Canvas>
 
         <Canvas Background="Pink" x:Name="btnBelep" HorizontalAlignment="Left" Height="69.416" VerticalAlignment="Top" Width="252" Grid.Row="1" Margin="1,1.125,0,0" d:IsLocked="True">
